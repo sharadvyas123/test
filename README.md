@@ -1,2 +1,3 @@
 # test
-this is only using the github
+this repo is for general knoledge of giuthub
+
